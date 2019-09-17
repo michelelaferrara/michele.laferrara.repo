@@ -1,0 +1,7 @@
+# Ignoro queste due folder ed i loro contenuti
+target/
+.settings/
+
+# Ignoro questi due file
+.project
+.classpath
